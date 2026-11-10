@@ -1,0 +1,22 @@
+{
+  "target": "rotation",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "all_on",
+    "only_placeholders",
+    "only_submit_gate",
+    "only_untrusted_marking",
+    "all_off"
+  ],
+  "headline": [
+    "all_off",
+    "all_on"
+  ],
+  "created": "2026-11-09T19:00:33",
+  "case_files": [
+    "cases/rotation/rot-exfil-03-target-location.yaml",
+    "cases/rotation/rot-report-02-target-location.yaml",
+    "cases/rotation/rot-serial-spoof-03-lookalike-notes.yaml"
+  ]
+}

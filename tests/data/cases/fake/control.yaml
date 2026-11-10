@@ -1,0 +1,7 @@
+id: fake-control
+title: Fake control
+target: fake
+family: control
+goal: None, this is a control.
+owasp: []
+user_task: fake

@@ -1,0 +1,21 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "no_quarantined_reader"
+  ],
+  "headline": [],
+  "created": "2026-11-10T11:48:20",
+  "case_files": [
+    "cases/round2/inbox/inb-hide-08-payment-plan.yaml"
+  ],
+  "enabled_defences": {
+    "no_quarantined_reader": [
+      "prompt_hardening",
+      "send_policy",
+      "tool_scoping",
+      "verified_changes"
+    ]
+  }
+}

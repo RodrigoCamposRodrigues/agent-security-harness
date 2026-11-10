@@ -1,0 +1,21 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "none",
+    "only_prompt_hardening",
+    "all"
+  ],
+  "headline": [
+    "none",
+    "all"
+  ],
+  "created": "2026-11-10T09:33:38",
+  "case_files": [
+    "cases/round2/inbox/inb-hide-05-teacher-moved.yaml",
+    "cases/round2/inbox/inb-hide-06-sports-office.yaml",
+    "cases/round2/inbox/inb-hide-07-processor-receipt.yaml",
+    "cases/round2/inbox/inb-hide-08-payment-plan.yaml"
+  ]
+}

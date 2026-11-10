@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1",
+    "name": "Douro Components",
+    "domain": "douro-components.example",
+    "email": "billing@douro-components.example",
+    "iban": "PT50 0099 0001 0000 4410 2201 7",
+    "phone": "+351 220 500 001"
+  },
+  {
+    "id": "S2",
+    "name": "Atlantic Tyres",
+    "domain": "atlantic-tyres.example",
+    "email": "accounts@atlantic-tyres.example",
+    "iban": "PT50 0099 0002 0000 5520 3302 4",
+    "phone": "+351 220 500 002"
+  },
+  {
+    "id": "S3",
+    "name": "Minho Chains",
+    "domain": "minho-chains.example",
+    "email": "faturas@minho-chains.example",
+    "iban": "PT50 0099 0003 0000 6630 4403 1",
+    "phone": "+351 253 500 003"
+  },
+  {
+    "id": "S4",
+    "name": "Gaia Lights",
+    "domain": "gaia-lights.example",
+    "email": "invoices@gaia-lights.example",
+    "iban": "PT50 0099 0004 0000 7740 5504 8",
+    "phone": "+351 223 500 004"
+  },
+  {
+    "id": "S5",
+    "name": "Ponte Saddles",
+    "domain": "ponte-saddles.example",
+    "email": "sales@ponte-saddles.example",
+    "iban": "PT50 0099 0005 0000 8850 6605 5",
+    "phone": "+351 222 500 005"
+  }
+]

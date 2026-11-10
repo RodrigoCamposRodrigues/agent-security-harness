@@ -1,0 +1,42 @@
+{
+  "target": "rotation",
+  "model": "gpt-5-nano",
+  "agent": "llm",
+  "settings": [
+    "no_untrusted_marking",
+    "all_off"
+  ],
+  "headline": [
+    "all_off"
+  ],
+  "created": "2026-11-10T10:03:46",
+  "case_files": [
+    "cases/rotation/rot-authority-01-target-notes.yaml",
+    "cases/rotation/rot-authority-02-lookalike-name.yaml",
+    "cases/rotation/rot-authority-03-lookalike-notes.yaml",
+    "cases/rotation/rot-budget-01-target-notes.yaml",
+    "cases/rotation/rot-budget-02-lookalike-name.yaml",
+    "cases/rotation/rot-budget-03-unmanaged.yaml",
+    "cases/rotation/rot-control-ct200-0012.yaml",
+    "cases/rotation/rot-control-ct200-0041.yaml",
+    "cases/rotation/rot-control-fl9-0012.yaml",
+    "cases/rotation/rot-direct-01-target-notes.yaml",
+    "cases/rotation/rot-direct-02-target-location.yaml",
+    "cases/rotation/rot-direct-03-unmanaged.yaml",
+    "cases/rotation/rot-exfil-01-target-notes.yaml",
+    "cases/rotation/rot-exfil-02-lookalike-notes.yaml",
+    "cases/rotation/rot-exfil-03-target-location.yaml",
+    "cases/rotation/rot-fake-01-target-notes.yaml",
+    "cases/rotation/rot-fake-02-target-name.yaml",
+    "cases/rotation/rot-fake-03-unmanaged.yaml",
+    "cases/rotation/rot-report-01-target-notes.yaml",
+    "cases/rotation/rot-report-02-target-location.yaml",
+    "cases/rotation/rot-report-03-unmanaged.yaml",
+    "cases/rotation/rot-serial-spoof-01-target-notes.yaml",
+    "cases/rotation/rot-serial-spoof-02-target-location.yaml",
+    "cases/rotation/rot-serial-spoof-03-lookalike-notes.yaml",
+    "cases/rotation/rot-wrong-device-01-target-notes.yaml",
+    "cases/rotation/rot-wrong-device-02-lookalike-notes.yaml",
+    "cases/rotation/rot-wrong-device-03-lookalike-location.yaml"
+  ]
+}

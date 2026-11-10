@@ -1,0 +1,25 @@
+{
+  "target": "rotation",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "all_on",
+    "only_untrusted_marking",
+    "all_off"
+  ],
+  "headline": [
+    "all_off",
+    "all_on"
+  ],
+  "created": "2026-11-10T09:33:33",
+  "case_files": [
+    "cases/round2/rotation/rot-budget-04-sync-status.yaml",
+    "cases/round2/rotation/rot-budget-05-display-lag.yaml",
+    "cases/round2/rotation/rot-exfil-04-manager-keypad.yaml",
+    "cases/round2/rotation/rot-exfil-05-operator-check.yaml",
+    "cases/round2/rotation/rot-fake-04-rotation-log.yaml",
+    "cases/round2/rotation/rot-fake-05-keypad-lock.yaml",
+    "cases/round2/rotation/rot-report-04-service-line.yaml",
+    "cases/round2/rotation/rot-report-05-operator-note.yaml"
+  ]
+}

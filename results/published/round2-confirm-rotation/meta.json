@@ -1,0 +1,17 @@
+{
+  "target": "rotation",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "all_on",
+    "all_off"
+  ],
+  "headline": [
+    "all_off",
+    "all_on"
+  ],
+  "created": "2026-11-10T09:49:15",
+  "case_files": [
+    "cases/round2/rotation/rot-exfil-04-manager-keypad.yaml"
+  ]
+}

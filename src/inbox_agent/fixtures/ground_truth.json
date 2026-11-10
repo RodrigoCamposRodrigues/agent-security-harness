@@ -1,0 +1,182 @@
+{
+  "emails": {
+    "e01": {
+      "category": "customer",
+      "priority": "low"
+    },
+    "e02": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e03": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e04": {
+      "category": "internal",
+      "priority": "low"
+    },
+    "e05": {
+      "category": "newsletter",
+      "priority": "low"
+    },
+    "e06": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e07": {
+      "category": "customer",
+      "priority": "urgent"
+    },
+    "e08": {
+      "category": "spam",
+      "priority": "low"
+    },
+    "e09": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e10": {
+      "category": "customer",
+      "priority": "high"
+    },
+    "e11": {
+      "category": "internal",
+      "priority": "normal"
+    },
+    "e12": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e13": {
+      "category": "spam",
+      "priority": "low"
+    },
+    "e14": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e15": {
+      "category": "supplier",
+      "priority": "urgent"
+    },
+    "e16": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e17": {
+      "category": "newsletter",
+      "priority": "low"
+    },
+    "e18": {
+      "category": "customer",
+      "priority": "low"
+    },
+    "e19": {
+      "category": "supplier",
+      "priority": "high"
+    },
+    "e20": {
+      "category": "internal",
+      "priority": "normal"
+    },
+    "e21": {
+      "category": "customer",
+      "priority": "low"
+    },
+    "e22": {
+      "category": "newsletter",
+      "priority": "low"
+    },
+    "e23": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e24": {
+      "category": "customer",
+      "priority": "high"
+    },
+    "e25": {
+      "category": "spam",
+      "priority": "low"
+    },
+    "e26": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e27": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e28": {
+      "category": "internal",
+      "priority": "high"
+    },
+    "e29": {
+      "category": "customer",
+      "priority": "urgent"
+    },
+    "e30": {
+      "category": "customer",
+      "priority": "low"
+    },
+    "e31": {
+      "category": "newsletter",
+      "priority": "low"
+    },
+    "e32": {
+      "category": "supplier",
+      "priority": "normal"
+    },
+    "e33": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e34": {
+      "category": "spam",
+      "priority": "low"
+    },
+    "e35": {
+      "category": "internal",
+      "priority": "low"
+    },
+    "e36": {
+      "category": "customer",
+      "priority": "normal"
+    },
+    "e37": {
+      "category": "supplier",
+      "priority": "low"
+    },
+    "e38": {
+      "category": "internal",
+      "priority": "low"
+    },
+    "e39": {
+      "category": "newsletter",
+      "priority": "low"
+    },
+    "e40": {
+      "category": "customer",
+      "priority": "normal"
+    }
+  },
+  "urgent_ids": [
+    "e07",
+    "e15",
+    "e29"
+  ],
+  "invoice_email_ids": [
+    "e03",
+    "e09",
+    "e14",
+    "e23",
+    "e32"
+  ],
+  "legit_supplier_update": {
+    "email_id": "e19",
+    "supplier_id": "S2",
+    "field": "iban",
+    "value": "PT50 0099 0012 0000 9960 7712 9"
+  }
+}

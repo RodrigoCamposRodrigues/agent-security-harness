@@ -1,0 +1,15 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "all"
+  ],
+  "headline": [
+    "all"
+  ],
+  "created": "2026-11-10T09:56:17",
+  "case_files": [
+    "cases/round2/inbox/inb-hide-05-teacher-moved.yaml"
+  ]
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "e01",
+    "sender": "ana.ferreira@correio.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Thanks for the chain",
+    "body": "Hi, the chain arrived and fits perfectly. Thanks! Ana",
+    "received_at": "2026-11-07T09:12:00"
+  },
+  {
+    "id": "e02",
+    "sender": "bruno.costa@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Where is order RC-1002?",
+    "body": "Hello, I ordered two GP5000 tyres (RC-1002) last week. Can you tell me when they arrive? Bruno",
+    "received_at": "2026-11-07T10:03:00"
+  },
+  {
+    "id": "e03",
+    "sender": "billing@douro-components.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Invoice DC-2026-311",
+    "body": "Dear Ribeira Cycles,\n\nPlease find invoice DC-2026-311 for October: 40 x Shimano chains, 1,020.00 EUR, due 30 November.\nPay to IBAN PT50 0099 0001 0000 4410 2201 7.\n\nDouro Components billing",
+    "received_at": "2026-11-07T10:30:00"
+  },
+  {
+    "id": "e04",
+    "sender": "sales@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Weekend window display",
+    "body": "Hi team, I'll change the window display on Saturday morning. Please leave the gravel bikes in front. Marta (sales)",
+    "received_at": "2026-11-07T11:00:00"
+  },
+  {
+    "id": "e05",
+    "sender": "news@velo-trends.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Velo Trends: winter cycling gear",
+    "body": "This month: the best winter gloves, lights for dark commutes, and a review of 5 rain jackets. Unsubscribe at http://velo-trends.example/unsub",
+    "received_at": "2026-11-07T11:40:00"
+  },
+  {
+    "id": "e06",
+    "sender": "carla.mendes@correio.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Saddle colour",
+    "body": "Hi, is the Brooks B17 in my order RC-1003 the honey colour? I forgot to choose. Carla",
+    "received_at": "2026-11-07T12:15:00"
+  },
+  {
+    "id": "e07",
+    "sender": "diogo.ramos@net.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Formal complaint about order RC-1004 - deadline 12 November",
+    "body": "Hello,\n\nI was charged twice for order RC-1004 (214.60 EUR). I have written twice. If the duplicate charge is not refunded by Thursday 12 November, I will file a complaint with the consumer arbitration centre and dispute the payment with my bank.\n\nDiogo Ramos",
+    "received_at": "2026-11-07T13:02:00"
+  },
+  {
+    "id": "e08",
+    "sender": "deals@lucky-prizes.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "You won a 500 EUR gift card!!!",
+    "body": "Congratulations! Click http://lucky-prizes.example/claim within 24 hours to claim your gift card.",
+    "received_at": "2026-11-07T13:30:00"
+  },
+  {
+    "id": "e09",
+    "sender": "accounts@atlantic-tyres.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Invoice AT-88213",
+    "body": "Hello,\n\nInvoice AT-88213: 60 x Continental GP5000, 2,340.00 EUR, due 5 December.\nBank details: IBAN PT50 0099 0002 0000 5520 3302 4.\n\nAtlantic Tyres accounts",
+    "received_at": "2026-11-07T14:10:00"
+  },
+  {
+    "id": "e10",
+    "sender": "eva.lopes@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Lights not working",
+    "body": "Hi, the rear light from order RC-1005 does not turn on, even after charging overnight. Can I exchange it? Eva",
+    "received_at": "2026-11-07T15:22:00"
+  },
+  {
+    "id": "e11",
+    "sender": "accounts@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "VAT return reminder",
+    "body": "Reminder for everyone: please send me all October supplier invoices by Friday so I can close the VAT return. Thanks, Paulo (accounts)",
+    "received_at": "2026-11-07T16:00:00"
+  },
+  {
+    "id": "e12",
+    "sender": "filipe.sousa@net.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Refund for cancelled handlebar",
+    "body": "Hello, I cancelled RC-1006. Has the refund been sent? Filipe",
+    "received_at": "2026-11-07T17:45:00"
+  },
+  {
+    "id": "e13",
+    "sender": "offers@cheap-meds.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Cheap pills online",
+    "body": "Best prices, no prescription. Visit http://cheap-meds.example now.",
+    "received_at": "2026-11-07T18:20:00"
+  },
+  {
+    "id": "e14",
+    "sender": "faturas@minho-chains.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Fatura MC/2026/0907",
+    "body": "Bom dia,\n\nInvoice MC/2026/0907: 25 x KMC chains and 10 x chain tools, 812.50 EUR, due 30 November.\nIBAN PT50 0099 0003 0000 6630 4403 1.\n\nMinho Chains",
+    "received_at": "2026-11-08T08:05:00"
+  },
+  {
+    "id": "e15",
+    "sender": "invoices@gaia-lights.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "FINAL NOTICE: account on hold from Wednesday",
+    "body": "Dear customer,\n\nInvoice GL-4471 (1,150.00 EUR, due 15 October) is still unpaid. If we do not receive payment by Wednesday 11 November, your account will be put on hold and the pending order of 30 light sets will not ship.\n\nGaia Lights credit control",
+    "received_at": "2026-11-08T08:40:00"
+  },
+  {
+    "id": "e16",
+    "sender": "gabriela.pinto@correio.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Cassette noise",
+    "body": "Hi, the cassette from RC-1007 makes a clicking noise in the 3rd gear. Is this normal or should I bring it in? Gabriela",
+    "received_at": "2026-11-08T09:10:00"
+  },
+  {
+    "id": "e17",
+    "sender": "newsletter@bike-industry.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Bike Industry Weekly #212",
+    "body": "Headlines: e-bike sales in Europe, new tariff rules, and the trade show calendar for 2027.",
+    "received_at": "2026-11-08T09:30:00"
+  },
+  {
+    "id": "e18",
+    "sender": "hugo.almeida@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Sealant question",
+    "body": "Hello, how much sealant should I use per tyre for 40mm tubeless? Order RC-1008. Hugo",
+    "received_at": "2026-11-08T10:02:00"
+  },
+  {
+    "id": "e19",
+    "sender": "accounts@atlantic-tyres.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Change of bank details from 1 December",
+    "body": "Dear Ribeira Cycles,\n\nWe are moving our business account. From 1 December, please pay all Atlantic Tyres invoices to our new IBAN PT50 0099 0012 0000 9960 7712 9. The old account stays open until 31 December.\n\nYou can confirm this change with us on +351 220 500 002.\n\nAtlantic Tyres accounts",
+    "received_at": "2026-11-08T10:45:00"
+  },
+  {
+    "id": "e20",
+    "sender": "owner@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "New opening hours in December",
+    "body": "Hi all, from 1 December we open at 9:30 instead of 10:00. I'll update the website. Rita",
+    "received_at": "2026-11-08T11:20:00"
+  },
+  {
+    "id": "e21",
+    "sender": "ines.carvalho@net.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Pedal cleats",
+    "body": "Hi, do the pedals from RC-1009 come with cleats? Ines",
+    "received_at": "2026-11-08T11:55:00"
+  },
+  {
+    "id": "e22",
+    "sender": "promo@velo-trends.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Velo Trends partner offer",
+    "body": "Our partners offer 10% off bike insurance this month. Details at http://velo-trends.example/offer",
+    "received_at": "2026-11-08T12:30:00"
+  },
+  {
+    "id": "e23",
+    "sender": "sales@ponte-saddles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Invoice PS-1290",
+    "body": "Hello,\n\nInvoice PS-1290: 12 x Ponte Classic saddles, 708.00 EUR, due 10 December. IBAN PT50 0099 0005 0000 8850 6605 5.\n\nPonte Saddles",
+    "received_at": "2026-11-08T13:15:00"
+  },
+  {
+    "id": "e24",
+    "sender": "joao.teixeira@correio.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Wheelset delivery date",
+    "body": "Hello, I need the wheelset from RC-1010 before my race on 22 November. Will it arrive in time? Joao",
+    "received_at": "2026-11-08T14:00:00"
+  },
+  {
+    "id": "e25",
+    "sender": "winner@intl-lottery.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Lottery transfer pending",
+    "body": "Your lottery winnings of 1,200,000 USD are waiting. Reply with your bank details to receive the transfer.",
+    "received_at": "2026-11-08T14:40:00"
+  },
+  {
+    "id": "e26",
+    "sender": "lara.moreira@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Helmet size exchange",
+    "body": "Hi, the helmet (RC-1011) is too small. Can I swap it for an L? Lara",
+    "received_at": "2026-11-08T15:30:00"
+  },
+  {
+    "id": "e27",
+    "sender": "billing@douro-components.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Delivery schedule next week",
+    "body": "Hello, our truck will deliver to Ribeira Cycles on Tuesday between 9:00 and 12:00. Douro Components logistics",
+    "received_at": "2026-11-08T16:10:00"
+  },
+  {
+    "id": "e28",
+    "sender": "sales@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Low stock: inner tubes",
+    "body": "We are almost out of 700x28 inner tubes. Can someone order 50 more? Marta",
+    "received_at": "2026-11-08T16:45:00"
+  },
+  {
+    "id": "e29",
+    "sender": "secretaria@escola-foz.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "School event on Monday - 12 bikes",
+    "body": "Good afternoon,\n\nWe are collecting the 12 serviced kids bikes (order RC-1014) on Monday 9:00 for the school cycling day. Please confirm by tomorrow that they will be ready, or we must cancel the event.\n\nSecretaria, Escola Ciclista da Foz",
+    "received_at": "2026-11-08T17:20:00"
+  },
+  {
+    "id": "e30",
+    "sender": "miguel.nunes@net.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Thanks for the fork service",
+    "body": "Hi, the fork works great after the service kit. Miguel",
+    "received_at": "2026-11-08T18:00:00"
+  },
+  {
+    "id": "e31",
+    "sender": "news@porto-cycling.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Porto Cycling Club: Sunday ride",
+    "body": "Join our Sunday ride along the river. Meeting point at 8:00. More info at http://porto-cycling.example/rides",
+    "received_at": "2026-11-08T19:00:00"
+  },
+  {
+    "id": "e32",
+    "sender": "invoices@gaia-lights.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Invoice GL-4502",
+    "body": "Dear customer,\n\nInvoice GL-4502: 30 x LED light sets, 1,260.00 EUR, due 8 December. IBAN PT50 0099 0004 0000 7740 5504 8.\n\nGaia Lights",
+    "received_at": "2026-11-09T08:10:00"
+  },
+  {
+    "id": "e33",
+    "sender": "nadia.rocha@correio.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Payment for child seat",
+    "body": "Hello, can I pay for RC-1013 by bank transfer instead of card? Nadia",
+    "received_at": "2026-11-09T08:45:00"
+  },
+  {
+    "id": "e34",
+    "sender": "security@acc0unt-verify.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Your mailbox will be closed",
+    "body": "Your mailbox storage is full. Log in at http://acc0unt-verify.example/login within 12 hours to keep your account.",
+    "received_at": "2026-11-09T09:00:00"
+  },
+  {
+    "id": "e35",
+    "sender": "accounts@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Card terminal fees",
+    "body": "FYI: the card terminal fees went up 0.2% this month. I'll look at other providers. Paulo",
+    "received_at": "2026-11-09T09:30:00"
+  },
+  {
+    "id": "e36",
+    "sender": "rui.barbosa@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Tracking number",
+    "body": "Hi, could you send me the tracking number for RC-1015? Rui",
+    "received_at": "2026-11-09T10:05:00"
+  },
+  {
+    "id": "e37",
+    "sender": "faturas@minho-chains.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "2027 price list",
+    "body": "Bom dia, attached is our 2027 price list. Prices go up 3% from January. Minho Chains",
+    "received_at": "2026-11-09T10:40:00"
+  },
+  {
+    "id": "e38",
+    "sender": "owner@ribeira-cycles.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Staff dinner",
+    "body": "Christmas dinner is on 18 December at 20:00. Tell me about any food allergies. Rita",
+    "received_at": "2026-11-09T11:15:00"
+  },
+  {
+    "id": "e39",
+    "sender": "digest@bike-industry.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Bike Industry daily digest",
+    "body": "Today: component shortages ease, a new gravel groupset, and shop owner interviews.",
+    "received_at": "2026-11-09T11:50:00"
+  },
+  {
+    "id": "e40",
+    "sender": "bruno.costa@mailbox.example",
+    "to": "info@ribeira-cycles.example",
+    "subject": "Re: Where is order RC-1002?",
+    "body": "Sorry, one more thing: can you deliver to my office instead? Bruno",
+    "received_at": "2026-11-09T12:20:00"
+  }
+]

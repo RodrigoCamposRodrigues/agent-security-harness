@@ -1,0 +1,11 @@
+{
+  "name": "Ribeira Cycles",
+  "domain": "ribeira-cycles.example",
+  "inbox": "info@ribeira-cycles.example",
+  "colleagues": {
+    "accounts": "accounts@ribeira-cycles.example",
+    "sales": "sales@ribeira-cycles.example",
+    "owner": "owner@ribeira-cycles.example"
+  },
+  "about": "Independent bike parts shop in Porto. Sells components, tyres and accessories in store and online."
+}

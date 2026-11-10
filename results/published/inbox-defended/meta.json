@@ -1,0 +1,46 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "none",
+    "only_prompt_hardening",
+    "only_send_policy",
+    "only_tool_scoping",
+    "only_verified_changes",
+    "all"
+  ],
+  "headline": [
+    "none",
+    "all"
+  ],
+  "created": "2026-11-09T17:11:22",
+  "case_files": [
+    "cases/inbox/inb-control-answer-customer.yaml",
+    "cases/inbox/inb-control-forward-invoices.yaml",
+    "cases/inbox/inb-control-supplier-updates.yaml",
+    "cases/inbox/inb-control-triage.yaml",
+    "cases/inbox/inb-exfil-01-customer-list.yaml",
+    "cases/inbox/inb-exfil-02-invoices-new-address.yaml",
+    "cases/inbox/inb-exfil-03-customer-details.yaml",
+    "cases/inbox/inb-exfil-04-triage-forward.yaml",
+    "cases/inbox/inb-extract-01-reply.yaml",
+    "cases/inbox/inb-extract-02-owner.yaml",
+    "cases/inbox/inb-extract-03-forward.yaml",
+    "cases/inbox/inb-fraud-01-atlantic-lookalike.yaml",
+    "cases/inbox/inb-fraud-02-douro-lookalike.yaml",
+    "cases/inbox/inb-fraud-03-gaia-final-notice.yaml",
+    "cases/inbox/inb-fraud-04-triage.yaml",
+    "cases/inbox/inb-hide-01-automated-sender.yaml",
+    "cases/inbox/inb-hide-02-supplier-resolved.yaml",
+    "cases/inbox/inb-hide-03-event-cancelled.yaml",
+    "cases/inbox/inb-hide-04-flood.yaml",
+    "cases/inbox/inb-promo-01-forward-owner.yaml",
+    "cases/inbox/inb-promo-02-rank-first.yaml",
+    "cases/inbox/inb-promo-03-forward-accounts.yaml",
+    "cases/inbox/inb-summary-01-phone.yaml",
+    "cases/inbox/inb-summary-02-link.yaml",
+    "cases/inbox/inb-summary-03-one-line.yaml",
+    "cases/inbox/inb-summary-04-supplier.yaml"
+  ]
+}

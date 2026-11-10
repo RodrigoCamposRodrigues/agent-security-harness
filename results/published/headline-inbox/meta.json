@@ -1,0 +1,21 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "none",
+    "only_prompt_hardening",
+    "all"
+  ],
+  "headline": [
+    "none",
+    "all"
+  ],
+  "created": "2026-11-09T19:00:32",
+  "case_files": [
+    "cases/inbox/inb-control-supplier-updates.yaml",
+    "cases/inbox/inb-hide-02-supplier-resolved.yaml",
+    "cases/inbox/inb-hide-03-event-cancelled.yaml",
+    "cases/inbox/inb-hide-04-flood.yaml"
+  ]
+}

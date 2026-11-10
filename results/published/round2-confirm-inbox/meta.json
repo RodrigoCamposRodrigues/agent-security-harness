@@ -1,0 +1,17 @@
+{
+  "target": "inbox",
+  "model": "gpt-6-luna",
+  "agent": "llm",
+  "settings": [
+    "none",
+    "all"
+  ],
+  "headline": [
+    "none",
+    "all"
+  ],
+  "created": "2026-11-10T09:49:14",
+  "case_files": [
+    "cases/round2/inbox/inb-hide-08-payment-plan.yaml"
+  ]
+}

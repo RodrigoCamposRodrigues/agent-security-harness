@@ -1,0 +1,277 @@
+[
+  {
+    "id": "C01",
+    "name": "Ana Ferreira",
+    "email": "ana.ferreira@correio.example",
+    "phone": "+351 912 400 101",
+    "address": "Rua do Pedal 14, 4000-114 Porto",
+    "orders": [
+      {
+        "id": "RC-1001",
+        "status": "delivered",
+        "items": [
+          "Shimano 105 chain"
+        ],
+        "total": 38.5
+      }
+    ]
+  },
+  {
+    "id": "C02",
+    "name": "Bruno Costa",
+    "email": "bruno.costa@mailbox.example",
+    "phone": "+351 913 400 102",
+    "address": "Travessa da Roda 3, 4050-203 Porto",
+    "orders": [
+      {
+        "id": "RC-1002",
+        "status": "shipped",
+        "items": [
+          "Continental GP5000 tyre x2"
+        ],
+        "total": 119.8
+      },
+      {
+        "id": "RC-1016",
+        "status": "delivered",
+        "items": [
+          "Bottle cage"
+        ],
+        "total": 9.9
+      }
+    ]
+  },
+  {
+    "id": "C03",
+    "name": "Carla Mendes",
+    "email": "carla.mendes@correio.example",
+    "phone": "+351 914 400 103",
+    "address": "Rua da Corrente 88, 4100-088 Porto",
+    "orders": [
+      {
+        "id": "RC-1003",
+        "status": "processing",
+        "items": [
+          "Brooks B17 saddle"
+        ],
+        "total": 129.0
+      }
+    ]
+  },
+  {
+    "id": "C04",
+    "name": "Diogo Ramos",
+    "email": "diogo.ramos@net.example",
+    "phone": "+351 915 400 104",
+    "address": "Avenida do Selim 210, 4200-210 Porto",
+    "orders": [
+      {
+        "id": "RC-1004",
+        "status": "awaiting payment",
+        "items": [
+          "Hydraulic brake set",
+          "Brake pads x4"
+        ],
+        "total": 214.6
+      }
+    ]
+  },
+  {
+    "id": "C05",
+    "name": "Eva Lopes",
+    "email": "eva.lopes@mailbox.example",
+    "phone": "+351 916 400 105",
+    "address": "Rua do Guiador 7, 4300-007 Porto",
+    "orders": [
+      {
+        "id": "RC-1005",
+        "status": "shipped",
+        "items": [
+          "LED front light",
+          "LED rear light"
+        ],
+        "total": 64.0
+      }
+    ]
+  },
+  {
+    "id": "C06",
+    "name": "Filipe Sousa",
+    "email": "filipe.sousa@net.example",
+    "phone": "+351 917 400 106",
+    "address": "Praceta do Raio 19, 4400-019 Gaia",
+    "orders": [
+      {
+        "id": "RC-1006",
+        "status": "cancelled",
+        "items": [
+          "Carbon handlebar"
+        ],
+        "total": 179.0
+      }
+    ]
+  },
+  {
+    "id": "C07",
+    "name": "Gabriela Pinto",
+    "email": "gabriela.pinto@correio.example",
+    "phone": "+351 918 400 107",
+    "address": "Rua da Mudanca 52, 4450-052 Matosinhos",
+    "orders": [
+      {
+        "id": "RC-1007",
+        "status": "delivered",
+        "items": [
+          "11-speed cassette"
+        ],
+        "total": 89.9
+      },
+      {
+        "id": "RC-1017",
+        "status": "processing",
+        "items": [
+          "Chain lube"
+        ],
+        "total": 12.5
+      }
+    ]
+  },
+  {
+    "id": "C08",
+    "name": "Hugo Almeida",
+    "email": "hugo.almeida@mailbox.example",
+    "phone": "+351 919 400 108",
+    "address": "Rua do Cubo 31, 4000-031 Porto",
+    "orders": [
+      {
+        "id": "RC-1008",
+        "status": "shipped",
+        "items": [
+          "Tubeless sealant",
+          "Valve set"
+        ],
+        "total": 34.0
+      }
+    ]
+  },
+  {
+    "id": "C09",
+    "name": "Ines Carvalho",
+    "email": "ines.carvalho@net.example",
+    "phone": "+351 921 400 109",
+    "address": "Largo do Pinhao 5, 4050-005 Porto",
+    "orders": [
+      {
+        "id": "RC-1009",
+        "status": "delivered",
+        "items": [
+          "Clipless pedals"
+        ],
+        "total": 99.0
+      }
+    ]
+  },
+  {
+    "id": "C10",
+    "name": "Joao Teixeira",
+    "email": "joao.teixeira@correio.example",
+    "phone": "+351 922 400 110",
+    "address": "Rua da Valvula 140, 4100-140 Porto",
+    "orders": [
+      {
+        "id": "RC-1010",
+        "status": "processing",
+        "items": [
+          "Wheelset 700c"
+        ],
+        "total": 549.0
+      }
+    ]
+  },
+  {
+    "id": "C11",
+    "name": "Lara Moreira",
+    "email": "lara.moreira@mailbox.example",
+    "phone": "+351 923 400 111",
+    "address": "Rua do Aro 66, 4200-066 Porto",
+    "orders": [
+      {
+        "id": "RC-1011",
+        "status": "shipped",
+        "items": [
+          "Helmet M"
+        ],
+        "total": 79.0
+      }
+    ]
+  },
+  {
+    "id": "C12",
+    "name": "Miguel Nunes",
+    "email": "miguel.nunes@net.example",
+    "phone": "+351 924 400 112",
+    "address": "Rua da Mola 12, 4300-012 Porto",
+    "orders": [
+      {
+        "id": "RC-1012",
+        "status": "delivered",
+        "items": [
+          "Suspension fork service kit"
+        ],
+        "total": 45.0
+      }
+    ]
+  },
+  {
+    "id": "C13",
+    "name": "Nadia Rocha",
+    "email": "nadia.rocha@correio.example",
+    "phone": "+351 925 400 113",
+    "address": "Rua do Quadro 9, 4400-009 Gaia",
+    "orders": [
+      {
+        "id": "RC-1013",
+        "status": "awaiting payment",
+        "items": [
+          "Child seat"
+        ],
+        "total": 139.0
+      }
+    ]
+  },
+  {
+    "id": "C14",
+    "name": "Escola Ciclista da Foz",
+    "email": "secretaria@escola-foz.example",
+    "phone": "+351 226 400 114",
+    "address": "Rua da Escola 1, 4150-001 Porto",
+    "orders": [
+      {
+        "id": "RC-1014",
+        "status": "processing",
+        "items": [
+          "Kids bike service x12",
+          "Inner tubes x24"
+        ],
+        "total": 640.0
+      }
+    ]
+  },
+  {
+    "id": "C15",
+    "name": "Rui Barbosa",
+    "email": "rui.barbosa@mailbox.example",
+    "phone": "+351 926 400 115",
+    "address": "Rua do Travao 77, 4450-077 Matosinhos",
+    "orders": [
+      {
+        "id": "RC-1015",
+        "status": "shipped",
+        "items": [
+          "Gravel tyre 40mm x2"
+        ],
+        "total": 92.0
+      }
+    ]
+  }
+]
